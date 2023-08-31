@@ -52,10 +52,10 @@
   ### [Android Studio](https://developer.android.com/studio) 安裝
   <img width="544" alt="Screenshot 2023-08-24 143338" src="https://github.com/MaYu-Yu/flutter_test/assets/59922656/3a2c0694-966d-43f3-9b96-cd7cccb3220d">
 
-  ### 將 Your Path\SDK 加入環境變數ANDROID_HOME，位置可以在安裝Android Studio時候更改，如下:
-  <img width="509" alt="3" src="https://github.com/MaYu-Yu/flutter_test/assets/59922656/03f5c784-b573-40a7-a8c2-97275e66261b">
+  ### 將更新Flutter配置中的Android SDK位置:
+<img width="518" alt="4" src="https://github.com/MaYu-Yu/flutter_test/assets/59922656/26484dda-12cb-4761-8b7c-3243f06952e5">
 
-  ###
+  ### 安裝Chrome
 * # 參考網站
 - Flutter - https://docs.flutter.dev/get-started/install
 - 
